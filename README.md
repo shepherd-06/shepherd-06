@@ -4,3 +4,8 @@
 * 💞️ I'm eager to collaborate on any projects that are as fun and interesting as a buried treasure!
 * 📫 You can send a message in a bottle to asif.ibtehaz@tuni.fi, or just fire a cannon shot my way!
 * ⚙️ When I'm not tinkering with code, I like to surf the command line like a pro, and I've been known to battle Java beasts and Python pythons in my free time! And don't even get me started on my love for Insomnia - I'd walk the plank for that app!
+
+
+These numbers make me feel better about myself:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shepherd-06)](https://github.com/ryo-ma/github-profile-trophy)
