@@ -8,4 +8,4 @@
 
 These numbers make me feel better about myself:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shepherd-06)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shepherd-06&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
