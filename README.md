@@ -1,10 +1,74 @@
-* 👋 Ahoy there mateys! I'm @shepherd-06, your friendly neighborhood **code pirate**!
-* 👀 I'm always on the lookout for **adventure**, but when I'm not swashbuckling, I love diving into Front End Web Programming. Yarrr!
-* 🌱 I'm currently navigating the treacherous waters of **Information Security**, and learning how to make my React projects seaworthy!
-* 💞️ I'm eager to collaborate on <ins>any projects that are as **fun** and **interesting** as a buried treasure</ins>!
-* 📫 You can send a message in a bottle to **asif.ibtehaz@tuni.fi**, or just fire a cannon shot my way!
-* ⚙️ When I'm not tinkering with code, I like to surf the **command line like a pro**, and I've been known to *battle* **Java beasts** and **Python pythons** in my free time! And don't even get me started on my love for Insomnia - I'd walk the plank for that app!
+# 👋 About Me
+Hello! I'm Mohammad Asif Ibtehaz, but you can call me Ibtehaz. I am currently pursuing a Master of Science (Technology) in Information Security at Tampere University. I specialize in secure programming, cryptography, and various aspects of cyber security. With experience in building large systems and writing RESTful APIs, I aim to deliver secure and efficient solutions.
 
+## 🎓 Education
+### **Master of Science (Technology)** in Information Security
+
+🏫 Tampere University, Finland
+
+📅 Sept 2021 - Current
+
+📚 Courses: Cyber Security I & II, Secure Programming, Cryptography I & II, Security Protocols, Computer Networks I
+
+### **Bachelor of Science** in Computer Science
+
+🏫 BRAC University
+
+📅 Sept 2011 - Aug 2015
+
+## 💼 Work Experience
+
+📅 May 2018 - April 2022
+
+**Software Developer** at Monico Technologies Ltd.
+
+📅 Sept 2020 - Dec 2022
+
+**Web Developer** at Samadi Wellness
+
+📅 Jul 2019 - Dec 2020
+
+**Independent Software Developer** at Lookup GG
+
+📅 May 2022 - June 2022
+
+**Summer Intern** at HUBS
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, JavaScript, Bash, Java
+
+**Frameworks**: Django, Flask, Tornado, Sanic, ReactJS, Android
+
+**Protocols**: CoAP
+
+**Tools**: Git, Docker
+
+## 🌟 Key Projects
+
+* Secure Programming Project - An AES-encrypted file hosting/sharing service.
+
+👁️ [Live Demo](https://tuni-projects.github.io/Encrypted-Signal/) | 🛠️ GitHub ⚙️ [Backend](https://github.com/TUNI-Projects/Encrypted-Signal-Backend) 🖥️ [Frontend](https://github.com/TUNI-Projects/Encrypted-Signal)
+
+* Smart Shenanigans - An IoT dashboard to view various metrics.
+
+👁️ [Live Demo](https://tuni-projects.github.io/TUNI-IoT-Frontend/) | 🛠️ GitHub ⚙️ [Backend](https://github.com/TUNI-Projects/TUNI-IoT-Backend) 🖥️ [Frontend](https://github.com/TUNI-Projects/TUNI-IoT-Frontend) 🤖 [IoT](https://github.com/TUNI-Projects/TUNI-IoT-Arduino)
+
+* Hacker Playbook Utility - Python-powered bash script for installing various tools from "The Hacker Playbook".
+
+🛠️ [GitHub](https://github.com/shepherd-06/Hacker-Playbook-Utility)
+
+## 🏢 My Workspace
+
+I also contribute to a GitHub Team/Workspace called **CHUCKLE BYTES** where you can find more of my recent projects.
+
+👉 [CHUCKLE BYTES](https://github.com/TUNI-Projects)
+
+## 📫 How to Reach Me
+- 📧 Email: asif.ibtehaz@tuni.fi
+- 🌐 Portfolio: [My Portfolio](https://ibtehaz.xyz/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ibtehaz/)
+------------------------------------
 
 These numbers make me feel better about myself:
 
