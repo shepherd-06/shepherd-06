@@ -10,30 +10,6 @@ Hello! I'm Mohammad Asif Ibtehaz, but you can call me Ibtehaz. I am currently pu
 
 📚 Courses: Cyber Security I & II, Secure Programming, Cryptography I & II, Security Protocols, Computer Networks I
 
-### **Bachelor of Science** in Computer Science
-
-🏫 BRAC University
-
-📅 Sept 2011 - Aug 2015
-
-## 💼 Work Experience
-
-📅 May 2018 - April 2022
-
-**Software Developer** at Monico Technologies Ltd.
-
-📅 Sept 2020 - Dec 2022
-
-**Web Developer** at Samadi Wellness
-
-📅 Jul 2019 - Dec 2020
-
-**Independent Software Developer** at Lookup GG
-
-📅 May 2022 - June 2022
-
-**Summer Intern** at HUBS
-
 ## 🛠️ Tech Stack
 
 **Languages**: Python, JavaScript, Bash, Java
