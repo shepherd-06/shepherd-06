@@ -1,5 +1,5 @@
 # 👋 About Me
-Hello! I'm Ibtehaz, pursuing a Master of Science (Technology) in Information Security at Tampere University, Finland 🇫🇮. I specialize in secure programming, cryptography, and various aspects of cyber security. With experience in building large systems and writing RESTful APIs, I aim to deliver secure and efficient solutions.
+Hello! I'm Ibtehaz, pursuing a Master of Science (Technology) in Information Security at Tampere University, Finland. I specialize in secure programming, cryptography, and various aspects of cyber security. With experience in building large systems and writing RESTful APIs, I aim to deliver secure and efficient solutions.
 
 ## 🎓 Education
 **Master of Science (Technology)** in Information Security
