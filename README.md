@@ -44,8 +44,3 @@ I also contribute to a GitHub Team/Workspace called **CHUCKLE BYTES** where you 
 - 📧 Email: asif.ibtehaz@tuni.fi
 - 🌐 Portfolio: [My Portfolio](https://ibtehaz.xyz/)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ibtehaz/)
-------------------------------------
-
-These numbers make me feel better about myself:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
