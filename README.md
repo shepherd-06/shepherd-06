@@ -48,4 +48,4 @@ I also contribute to a GitHub Team/Workspace called **CHUCKLE BYTES** where you 
 
 These numbers make me feel better about myself:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shepherd-06&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
