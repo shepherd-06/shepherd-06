@@ -1,8 +1,8 @@
 # 👋 About Me
-Hello! I'm Mohammad Asif Ibtehaz, but you can call me Ibtehaz. I am currently pursuing a Master of Science (Technology) in Information Security at Tampere University. I specialize in secure programming, cryptography, and various aspects of cyber security. With experience in building large systems and writing RESTful APIs, I aim to deliver secure and efficient solutions.
+Hello! I'm Ibtehaz, pursuing a Master of Science (Technology) in Information Security at Tampere University, Finland 🇫🇮. I specialize in secure programming, cryptography, and various aspects of cyber security. With experience in building large systems and writing RESTful APIs, I aim to deliver secure and efficient solutions.
 
 ## 🎓 Education
-### **Master of Science (Technology)** in Information Security
+**Master of Science (Technology)** in Information Security
 
 🏫 Tampere University, Finland
 
@@ -12,13 +12,13 @@ Hello! I'm Mohammad Asif Ibtehaz, but you can call me Ibtehaz. I am currently pu
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, Bash, Java
+**Languages**: Python (2/3), JavaScript, Bash, Java
 
-**Frameworks**: Django, Flask, Tornado, Sanic, ReactJS, Android
+**Frameworks**: Django, Flask, Tornado, Sanic, FastAPI, ReactJS, Android
 
-**Protocols**: CoAP
+**Protocols**: REST, WebSocket, SOAP, CoAP, MQTT, WebRTC
 
-**Tools**: Git, Docker
+**Tools**: Git, Docker, Postman, Swagger, Nginx, Grafana, Prometheus, Celery
 
 ## 🌟 Key Projects
 
